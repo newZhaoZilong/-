@@ -1,0 +1,5 @@
+<!--index/components/progress/index.wxml-->
+<view class="canvas-container" style="width:{{width}}rpx;height:{{width}}rpx;padding:{{borderWidth}}rpx;">
+	<canvas class="my-canvas" type="2d" id="myCanvas"></canvas>
+	<slot></slot>
+</view>

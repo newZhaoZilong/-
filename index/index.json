@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "i-progress":"./components/i-progress/index"
+  }
+}

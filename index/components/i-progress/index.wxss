@@ -1,0 +1,14 @@
+/* index/components/progress/index.wxss */
+.canvas-container {
+  position: relative;
+  box-sizing: border-box;
+}
+
+.my-canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+}

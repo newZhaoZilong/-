@@ -1,0 +1,13 @@
+<view class="progress-container">
+	<i-progress width="200" angle="270" borderColor="#f00" borderWidth="10" />
+	<i-progress width="200" angle="270" borderColor="#0f0" borderWidth="20" />
+	<i-progress width="200" angle="270" borderColor="#0ff" borderWidth="20" duration="1000" />
+	<!-- 设置起点位置进行绘制 -->
+	<i-progress width="200" startAngle="90" angle="180" borderColor="#f00" borderWidth="10" />
+	<i-progress width="200" startAngle="90" angle="180" borderColor="#0f0" borderWidth="20" />
+	<i-progress width="200" startAngle="90" angle="180" borderColor="#0ff" borderWidth="20" duration="1000" />
+	<!-- 逆时针绘制 -->
+	<i-progress width="200" startAngle="90" angle="-180" borderColor="#f00" borderWidth="10" />
+	<i-progress width="200" startAngle="90" angle="-180" borderColor="#0f0" borderWidth="20" />
+	<i-progress width="200" startAngle="90" angle="-180" borderColor="#0ff" borderWidth="20" duration="1000" />
+</view>
