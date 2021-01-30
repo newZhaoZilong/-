@@ -1,4 +1,4 @@
-![avatar](progress4.png)
+![avatar](progress4.gif)
 
 考虑到环形进度条的需求很多，所以通过canvas实现了一个简易的环形进度条的组件
 
